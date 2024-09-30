@@ -1,3 +1,3 @@
 # Basic
 Hello 
-First repo in github..
+First repo in git
